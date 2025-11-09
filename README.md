@@ -53,11 +53,11 @@ Você tem duas maneiras de instalar o **YouTube CORS-Patcher**:
 
 Clique no link abaixo. O Tampermonkey deve abrir automaticamente e perguntar se você deseja instalar o script.
 
-[![Install directly with Tampermonkey](https://img.shields.io/badge/INSTALAR-blue?style=for-the-badge)](https://github.com/henryykkkk/youtube-cors-patcher/raw/main/youtube-cors-patcher.user.js)
+[![Install directly with Tampermonkey](https://img.shields.io/badge/INSTALAR-blue?style=for-the-badge)](https://github.com/henryykkkk/youtube-cors-patcher/raw/main/loader/loader.user.js)
 
 #### Opção B: Instalação Manual
 
-1.  Clique [aqui](https://github.com/henryykkkk/youtube-cors-patcher/blob/main/youtube-cors-patcher.user.js) para ver o código do script.
+1.  Clique [aqui](https://github.com/henryykkkk/youtube-cors-patcher/blob/main/loader/loader.user.js) para ver o código do script.
 2.  Copie todo o código (`Ctrl+C` ou `⌘+C`).
 3.  Clique no ícone do Tampermonkey no seu navegador e selecione **"Painel"** (Dashboard).
 4.  Clique no ícone de **"mais"** (`+`) para criar um novo script.
