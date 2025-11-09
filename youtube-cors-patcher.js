@@ -1,7 +1,3 @@
- /**
- * aqui temos o coração de tudo
- */
-
 (function() {
     'use strict';
 
