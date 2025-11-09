@@ -2,8 +2,6 @@
 
 > Um userscript que corrige o erro "Access to fetch... blocked by CORS policy" no YouTube, permitindo que os vídeos sejam carregados normalmente.
 
-[![GitHub release](https://img.shields.io/github/v/release/henryykkkk/youtube-cors-patcher?style=flat-square)](https://github.com/henryykkkk/youtube-cors-patcher/releases)
-[![License: MIT](https://img.shields.io/github/license/henryykkkk/youtube-cors-patcher?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Tampermonkey Compatible](https://img.shields.io/badge/Tampermonkey-Compatible-blue?style=flat-square&logo=tampermonkey)](https://www.tampermonkey.net/)
 
 ## 📖 Sobre este projeto
