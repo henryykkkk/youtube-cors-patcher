@@ -12,7 +12,7 @@
 (function() {
     'use strict';
 
-    const scriptUrl = 'https://raw.githubusercontent.com/henryykkkk/youtube-cors-patcher/main/youtube-cors-patcher.js';
+    const scriptUrl = 'https://raw.githubusercontent.com/henryykkkk/youtube-cors-patcher/refs/heads/main/youtube-cors-patcher.js';
     const PREFIX = '%c[YTCORSFix Loader]';
     const PREFIX_STYLE = 'color: #4a90e2; font-weight: bold;';
     const SUCCESS_STYLE = 'color: #7ed321; font-weight: bold;';
